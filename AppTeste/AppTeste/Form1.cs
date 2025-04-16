@@ -20,6 +20,8 @@ namespace AppTeste
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Bem Vindo ao Sistema");
+
+            MessageBox.Show("Outra mensagem");
         }
     }
 }
